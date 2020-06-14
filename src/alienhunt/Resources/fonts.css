@@ -1,0 +1,14 @@
+.label, .score{
+    -fx-font-size:  18;
+    -fx-font-family: "Consolas";
+    -fx-text-fill: white;
+}
+#bottombar, #topbar{
+    -fx-background-color: #241F23;
+}
+#mainArea{
+    -fx-background-color: #30336b;
+}
+
+
+
